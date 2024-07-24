@@ -1,7 +1,7 @@
-🚀 About Me:
-Over 7+ years of experience in full stack development.
-Expertise in JavaScript, TypeScript, React, Angular, Node.js, .NET, and more.
-Skilled in creating Single Page Applications (SPAs) and microservices.
+🚀 About Me:  
+Over 7+ years of experience in full stack development.  
+Expertise in JavaScript, TypeScript, React, Angular, Node.js, .NET, and more.  
+Skilled in creating Single Page Applications (SPAs) and microservices.  
 Proficient with SQL and NoSQL databases.
 
 💼 Currently Working At:
